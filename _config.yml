@@ -4,7 +4,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: sabyasachi's homepage
+title: sabyasachi
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   I am Sabyasachi, a data science undergrad.
@@ -24,5 +24,5 @@ theme_config:
   # appearance: "auto"
   show_description: true
   lowercase_titles: true
-  back_home_text: ".."
+  back_home_text: "↩"
   date_format: "%d-%m-%Y"
