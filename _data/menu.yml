@@ -1,0 +1,9 @@
+entries:
+  - title: about
+    url: /about/
+
+  - title: archive
+    url: /archive/
+
+  - title: github
+    url: https://github.com/watham15/thoughts
