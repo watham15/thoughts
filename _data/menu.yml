@@ -1,9 +1,16 @@
 entries:
   - title: about
-    url: /about/
+    url: /about
+
+  - title: writings
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: "see all posts..."
+      show_more_url: /thoughts/archive/
 
   - title: archive
-    url: /archive/
+    url: /archive
 
   - title: github
     url: https://github.com/watham15/thoughts
